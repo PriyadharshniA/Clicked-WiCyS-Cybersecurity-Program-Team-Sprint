@@ -20,7 +20,7 @@ Lemonade, an online insurance company that covers everything from pets to laptop
 - [Lemonade Cybersecurity Program](https://github.com/PriyadharshniA/assets/blob/main/Lemonade_Team%20Sprint.pdf)
 
 ## Acknowledgements
-This project was completed in collaboration with **Clicked Coaches** and peers in the teams. Thanks to **IBM** ,**Clicked**, **Coaches** & **Host Team** for providing a structured learning environment to practice real-world cybersecurity tasks!
+This project was completed in collaboration with **Clicked Coaches** and peers in the teams. Thanks to **IBM**, **Clicked** **Coaches** & **Host Team** for providing a structured learning environment to real-world cybersecurity challenges!
 
 ## Project Completion Certificate
 
